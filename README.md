@@ -1,1 +1,1 @@
-# this is my loca learning repo.
+# This is my local learning repo.
